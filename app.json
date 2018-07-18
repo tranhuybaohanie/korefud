@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "Korefude",
+    "icon": "./fav-icon.png",
+    "version": "1.0.0",
+    "slug": "Korefud",
+    "ios": {
+      "bundleIdentifier": "com.bao.Korefud"
+    },
+    "android": {
+      "package": "com.bao.Korefud"
+    }
+  },
+  "name": "Korefud",
+  "displayName": "Korefud"
+}
